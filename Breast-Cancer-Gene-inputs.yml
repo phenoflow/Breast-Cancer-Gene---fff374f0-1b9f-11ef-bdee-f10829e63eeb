@@ -1,0 +1,33 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/intraductal-breast-cancer-gene-p19---primary.py
+inputModule3:
+  class: File
+  path: python/female-breast-cancer-gene-p19---primary.py
+inputModule4:
+  class: File
+  path: python/breast-cancer-gene-p19-quadrant---primary.py
+inputModule5:
+  class: File
+  path: python/breast-cancer-gene-p19-areola---primary.py
+inputModule6:
+  class: File
+  path: python/breast-cancer-gene-p19-carcinoma---primary.py
+inputModule7:
+  class: File
+  path: python/breast-cancer-gene-p19-neoplasm---primary.py
+inputModule8:
+  class: File
+  path: python/breast-cancer-gene-p19-mpaget---primary.py
+inputModule9:
+  class: File
+  path: python/other-breast-cancer-gene-p19---primary.py
+inputModule10:
+  class: File
+  path: python/breast-cancer-gene-p19-nipple---primary.py
+inputModule11:
+  class: File
+  path: python/output-cases.py
